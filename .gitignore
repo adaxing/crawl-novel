@@ -1,2 +1,5 @@
 *.txt
 *.pyc
+.DS_Store
+.gitignore
+.ipynb_checkpoints/*
